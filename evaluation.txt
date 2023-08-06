@@ -1,0 +1,3 @@
+R^2 evaluation: 49.0%
+Mean Square Error: 0.3333008642223108
+Root Mean Square Error: 0.5773221494298576
